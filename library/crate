@@ -4,6 +4,10 @@ Maintainers: Mathias Fußenegger <mathias@crate.io> (@mfussenegger),
              Andreas Motl <andreas.motl@crate.io> (@amotl)
 GitRepo: https://github.com/crate/docker-crate.git
 
+Tags: 6.0.2, 6.0, latest
+Architectures: amd64, arm64v8
+GitCommit: a1cbe321622a14325f07abaff8a861d0ab32ede3
+
 Tags: 5.10.12, 5.10, latest
 Architectures: amd64, arm64v8
 GitCommit: 677b92fce1c9ffe8e9d60e6c083c583b02ffe082
